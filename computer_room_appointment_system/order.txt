@@ -1,0 +1,5 @@
+data:1 interval:1 stuid:1 name:zhangsan roomid:1 state:0
+data:1 interval:1 stuid:1 name:zhangsan roomid:2 state:0
+data:2 interval:1 stuid:1 name:zhangsan roomid:1 state:-1
+data:4 interval:2 stuid:1 name:zhangsan roomid:3 state:-1
+data:5 interval:2 stuid:1 name:zhangsan roomid:3 state:-1
